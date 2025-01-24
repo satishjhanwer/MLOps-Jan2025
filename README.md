@@ -214,22 +214,22 @@
 
 **Branch Deletion:**
 
-![Screenshot of git log after merge](./screenshot-branch-deletion.png)
+![Screenshot of branch deletion](./screenshot-branch-deletion.png)
 
 **Reference Log after Branch Deletion:**
 
-![Screenshot of git log after merge](./screenshot-reference-log-branch-deletion.png)
+![Screenshot of reference log after branch deletion](./screenshot-reference-log-branch-deletion.png)
 
 **Reference Log after Branch Recovered:**
 
-![Screenshot of git log after merge](./screenshot-reference-log-branch-recovered.png)
+![Screenshot of reference log after branch recovered](./screenshot-reference-log-branch-recovered.png)
 
 **Branch Status:**
 
-![Screenshot of git log after merge](./screenshot-reference-branch-status.png)
+![Screenshot of branch status](./screenshot-reference-branch-status.png)
 
 **Tag Status After Tag Creation:**
 
-![Screenshot of git log after merge](./screenshot-reference-tag-status.png)
+![Screenshot of tag status after tag creation](./screenshot-reference-tag-status.png)
 
 ---
